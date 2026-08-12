@@ -1,7 +1,7 @@
 # Experiment 1 – Post Composer
 
-### Name: John Jacob  
-### UID: 24BCF10037
+### Name: Aishwarya
+### UID: 24BCF10041
 
 ---
 
@@ -80,7 +80,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**John Jacob**  
-UID: **24BCF10037**  
+**Aishwarya**  
+UID: **24BCF10041**  
 Bachelor of Engineering (Computer Science Engineering)  
-Semester 5
+Semester : 5
