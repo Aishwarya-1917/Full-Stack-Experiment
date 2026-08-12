@@ -1,7 +1,7 @@
 # Experiment 2 – Social Media Scheduler
 
-### Name: John Jacob  
-### UID: 24BCF10037
+### Name: Aishwarya 
+### UID: 24BCF10041
 
 ---
 
@@ -193,7 +193,7 @@ Through this experiment, the following concepts were implemented and understood:
 
 ## 👨‍💻 Author
 
-**John Jacob**  
-UID: **24BCF10037**  
+**Aishwarya**  
+UID: **24BCF10041**  
 Bachelor of Engineering (Computer Science Engineering)  
-Semester 5
+Semester : 5
